@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [FlClash-0.8.92-linux-amd64](./FlClash-0.8.92-linux-amd64)
 
 ---
 
